@@ -37,12 +37,14 @@ img {
     margin-bottom: 20px;
     width: 50%;
     box-sizing: border-box;
+
 }
 
 .Indy {
     float: left;
     padding-right: 1%;
-    margin: auto
+    margin: auto;
+
 }
 
 .hogwarts {
