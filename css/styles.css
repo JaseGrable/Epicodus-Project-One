@@ -4,9 +4,20 @@ img {
 }
 
 .hobbies {
-    color: rgb(6, 126, 6)
+    color: rgb(6, 126, 6);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+
 }
 
 .intro {
-    color: rgb(0, 114, 76)
+    color: rgb(0, 114, 76);
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.emphasize {
+    font-family: 'Times New Roman', Times, serif;
 }
