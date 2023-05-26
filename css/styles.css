@@ -11,13 +11,35 @@ img {
 }
 
 .intro {
-    color: rgb(0, 114, 76);
+    color: rgb(6, 126, 6);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .highlight {
-    background-color: yellow;
+    background-color: rgb(223, 155, 223);
+    font-weight: bold;
 }
 
 .emphasize {
     font-family: 'Times New Roman', Times, serif;
+}
+
+.about-me {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(6, 126, 6);
+    text-align: left
+}
+
+.Indy {
+    float: left;
+}
+
+.hogwarts {
+    float: left;
+    max-width: 250px;
+    padding-right: 1%;
+}
+
+.experience {
+    text-align: left;
 }
