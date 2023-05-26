@@ -8,11 +8,13 @@ img {
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
 
+
 }
 
 .intro {
     color: rgb(6, 126, 6);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 
 .highlight {
@@ -27,19 +29,26 @@ img {
 .about-me {
     font-family: 'Times New Roman', Times, serif;
     color: rgb(6, 126, 6);
-    text-align: left
+    text-align: left;
+    margin: 12px;
+    border: 2px solid green;
+    padding: 2px;
 }
 
 .Indy {
     float: left;
+    padding-right: 1%;
+
 }
 
 .hogwarts {
     float: left;
     max-width: 250px;
     padding-right: 1%;
+
 }
 
 .experience {
     text-align: left;
+
 }
