@@ -10,7 +10,7 @@
 * CSS
 * HTML
 * VScode
-*LearnHowToProgram.com
+* LearnHowToProgram.com
 
 ## Description
 
