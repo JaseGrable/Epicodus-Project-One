@@ -1,22 +1,34 @@
-## Jase Grable Portfolio Page 
-### by Jase Grable 
-#### A work in progress portfolio website for Epicodus Project One 
-##### Technologies Used 
+# Jase Grable Portfolio Page
+
+#### By Jase Grable
+
+#### My first portflio page at Epicodus 
+
+## Technologies Used
+
+* Git 
+* CSS
 * HTML
-* CSS 
-* Git
-#### Description 
-#### This is a portfolio website that is a work in progress. I built it for my first project assignment at Epicodus. 
+* VScode
+*LearnHowToProgram.com
 
-### Setup/Installation Requirements ###
+## Description
+
+* This is a portfolio website that is a work in progress. I built it for my first project assignment at Epicodus. It was built to help learn html and css. 
+
+## Setup/Installation Requirements
+
 * Clone this repository to your desktop
-* Navigate to top level directory 
-* Open index.html in your browser 
+* Navigate to top level directory
+* open index.html in your browswer
 
-### Known Bugs  
-* none 
 
-### License 
-MIT 
+## Known Bugs
 
-##### Copyright (c) 2023 Jase Grable
+* none
+
+## License
+
+MIT
+
+Copyright (c) Jase Grable
