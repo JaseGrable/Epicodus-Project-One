@@ -15,7 +15,7 @@
 ## Description
 
 * This is a portfolio website that is a work in progress. I built it for my first project assignment at Epicodus. It was built to help learn html and css. 
-* [For a link to the github page click here](https://jasegrable.github.io/Epicodus-Project-One/Epicodus-Project-One/)
+* [For a link to the github page click here](https://jasegrable.github.io/Epicodus-Project-One/)
 
 ## Setup/Installation Requirements
 
